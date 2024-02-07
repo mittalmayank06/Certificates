@@ -1,2 +1,3 @@
 # Certificates
-Achievements of my professional life
+Professional Certifications to showcase my technical skills,
+#Udemy #TechnicalCertifications
